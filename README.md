@@ -1,4 +1,4 @@
-# Data engineering Portfolio
+# Data journey portfolio
 
 Hi, I’m Cheikh Abdoul 👋  
 
